@@ -1,0 +1,22 @@
+#google_img{
+    height: 125px;
+    width: 375px;
+}
+
+#title{
+    font-weight: bold;
+    color: red;
+}
+
+#vs_img{
+    height: 125px;
+    width: 125px;
+}
+
+#mobilenet_img{
+    height: 125px;
+    width: 450px;
+}
+
+
+
